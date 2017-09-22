@@ -1,0 +1,23 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "freecodecamp timestamp microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexyblazy/timestamp-microservice.git"
+  },
+  "author": "lexy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexyblazy/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/lexyblazy/timestamp-microservice#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}
